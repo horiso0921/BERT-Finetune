@@ -1,0 +1,7 @@
+__pycache__
+wandb
+data
+model/saved
+
+job/outputs
+makedata.py
